@@ -16,7 +16,7 @@ int main(){
     cin >> a;
     cout << "Digite outro numero: ";
     cin >> b;
-    cout << "Fale " << nome << ", A soma dos numeros e: " << a + b << endl;
+    cout << "Fale meu amigo " << nome << ", A soma dos numeros e: " << a + b << endl;
     system("pause");
     return 0;
 }
